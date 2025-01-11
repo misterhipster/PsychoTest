@@ -1,0 +1,9 @@
+{
+  
+  "profile1": {
+    "name": "человек",
+    "id": 1,
+    "password": "фыв123",
+    "email": "chelovek@gmail.com"
+  }
+}
